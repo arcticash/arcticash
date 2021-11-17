@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ash from Warwickshire 🇬🇧
-- 👀 I’m interested in PHP, Python & Networking
-- 🌱 I’m currently studying towards CCNA & CWNP
+- 👀 I’m interested in Networking. Python & Linux
+- 🌱 I’m currently studying towards a BSc, CCNA & CWNP
 - 💞️ I’m looking to collaborate on anything interesting!
 - 📫 How to reach me ...
 
