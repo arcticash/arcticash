@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arcticash
-- 👀 I’m interested in Networking
-- 🌱 I’m currently learning Cisco iOS
+- 👋 Hi, I’m Ash from Warwickshire 🇬🇧
+- 👀 I’m interested in PHP, Python & Networking
+- 🌱 I’m currently studying towards CCNA & CWNP
 - 💞️ I’m looking to collaborate on anything interesting!
 - 📫 How to reach me ...
 
